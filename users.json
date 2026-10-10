@@ -3,6 +3,10 @@
         {
             "username": "l8z4",
             "password": "potassiumpassword"
+        },
+        {
+            "username": "potassium",
+            "password": "potassiumremakebyl8z4"
         }
     ],
     "keys": [
@@ -16,8 +20,8 @@
         },
         {
             "key": "Potassium-9DHV-CVSB-E58S",
-            "used": false,
-            "username": null,
+            "used": true,
+            "username": "potassium",
             "banned": false,
             "purchased": true,
             "purchased_by": "1307608431888171058"
