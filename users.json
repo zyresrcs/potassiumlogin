@@ -1,10 +1,6 @@
 {
     "users": [
         {
-            "username": "l8z4",
-            "password": "potassiumpassword"
-        },
-        {
             "username": "potassium",
             "password": "potassiumremakebyl8z4"
         }
@@ -13,18 +9,18 @@
         {
             "key": "Potassium-NYL0-0KNA-ALNI",
             "used": true,
-            "username": "l8z4",
+            "username": null",
             "banned": false,
             "purchased": true,
-            "purchased_by": "942224131527671858"
+            "purchased_by": false
         },
         {
             "key": "Potassium-9DHV-CVSB-E58S",
             "used": true,
-            "username": "potassium",
+            "username": null,
             "banned": false,
             "purchased": true,
-            "purchased_by": "1307608431888171058"
+            "purchased_by": false
         },
         {
             "key": "Potassium-VWSP-HQJF-GHH2",
@@ -56,7 +52,5 @@
         }
     ],
     "purchases": [
-        "942224131527671858",
-        "1307608431888171058"
     ]
 }
