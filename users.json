@@ -1,12 +1,16 @@
 {
     "users": [
-        {
-        }
+        {}
     ],
     "keys": [
+        {},
         {
+            "key": "Potassium-NYL0-0KNA-ALNI",
+            "used": false,
+            "username": null,
+            "banned": false,
+            "purchased": false
         }
     ],
-    "purchases": [
-    ]
+    "purchases": []
 }
