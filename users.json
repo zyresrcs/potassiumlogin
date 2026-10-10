@@ -1,94 +1,12 @@
 {
     "users": [
         {
-            "username": "falseperson",
-            "password": "pass12345"
-        },
-        {
-            "username": "a",
-            "password": "a"
-        },
-        {
-            "username": "lilmilf67",
-            "password": "sexogratissofiaregresaxfavor"
-        },
-        {
-            "username": "ratter",
-            "password": "ratter13"
-        },
-        {
-            "username": "admin",
-            "password": "abc123"
         }
     ],
     "keys": [
         {
-            "key": "SRIA-W3GD-9SLV-QNX5",
-            "used": true,
-            "username": "falseperson",
-            "banned": false,
-            "purchased": true,
-            "purchased_by": "1410169316694823032"
-        },
-        {
-            "key": "SRIA-GW35-K0Q0-UH33",
-            "used": true,
-            "username": "zddev",
-            "banned": false,
-            "purchased": true,
-            "purchased_by": "1469129262278770698"
-        },
-        {
-            "key": "SRIA-N0PC-1Y6F-B24A",
-            "used": true,
-            "username": "lilmilf67",
-            "banned": false,
-            "purchased": true,
-            "purchased_by": "942224131527671858"
-        },
-        {
-            "key": "SRIA-MYBJ-C4UM-NFP5",
-            "used": true,
-            "username": "ratter",
-            "banned": false,
-            "purchased": true,
-            "purchased_by": "1238407933277245544"
-        },
-        {
-            "key": "SRIA-5DNM-6EVP-8OWT",
-            "used": true,
-            "username": "admin",
-            "banned": false,
-            "purchased": true,
-            "purchased_by": "868183248084299776"
-        },
-        {
-            "key": "SRIA-QC4Z-WKXH-0UC6",
-            "used": false,
-            "username": null,
-            "banned": false,
-            "purchased": false
-        },
-        {
-            "key": "SRIA-5ADZ-MOEZ-2FMY",
-            "used": false,
-            "username": null,
-            "banned": false,
-            "purchased": false
-        },
-        {
-            "key": "SRIA-ZB4T-EAQV-RSUL",
-            "used": false,
-            "username": null,
-            "banned": false,
-            "purchased": false
         }
     ],
     "purchases": [
-        "1410169316694823032",
-        "1469129262278770698",
-        "942224131527671858",
-        "1238407933277245544",
-        "868183248084299776"
     ]
 }
