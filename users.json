@@ -38,6 +38,13 @@
             "username": null,
             "banned": false,
             "purchased": false
+        },
+        {
+            "key": "Potassium-3DNY-DSC4-V3Q1",
+            "used": false,
+            "username": null,
+            "banned": false,
+            "purchased": false
         }
     ],
     "purchases": []
