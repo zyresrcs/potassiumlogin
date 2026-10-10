@@ -27,7 +27,8 @@
             "used": false,
             "username": null,
             "banned": false,
-            "purchased": false
+            "purchased": true,
+            "purchased_by": "942224131527671858"
         },
         {
             "key": "Potassium-6J44-YOKJ-GO1X",
@@ -52,5 +53,6 @@
         }
     ],
     "purchases": [
+        "942224131527671858"
     ]
 }
