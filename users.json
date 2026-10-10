@@ -1,10 +1,15 @@
 {
-    "users": [],
+    "users": [
+        {
+            "username": "l8z4",
+            "password": "potassiumpassword"
+        }
+    ],
     "keys": [
         {
             "key": "Potassium-NYL0-0KNA-ALNI",
-            "used": false,
-            "username": null,
+            "used": true,
+            "username": "l8z4",
             "banned": false,
             "purchased": true,
             "purchased_by": "942224131527671858"
