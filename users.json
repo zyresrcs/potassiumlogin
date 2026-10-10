@@ -17,6 +17,13 @@
             "username": null,
             "banned": false,
             "purchased": false
+        },
+        {
+            "key": "Potassium-VWSP-HQJF-GHH2",
+            "used": false,
+            "username": null,
+            "banned": false,
+            "purchased": false
         }
     ],
     "purchases": []
