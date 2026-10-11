@@ -8,7 +8,7 @@
     "keys": [
         {
             "key": "Potassium-NYL0-0KNA-ALNI",
-            "used": true,
+            "used": false,
             "username": null,
             "banned": false,
             "purchased": false,
@@ -16,7 +16,7 @@
         },
         {
             "key": "Potassium-9DHV-CVSB-E58S",
-            "used": true,
+            "used": false,
             "username": null,
             "banned": false,
             "purchased": false,
@@ -24,7 +24,7 @@
         },
         {
             "key": "Potassium-VWSP-HQJF-GHH2",
-            "used": true,
+            "used": false,
             "username": null,
             "banned": false,
             "purchased": false,
@@ -35,8 +35,8 @@
             "used": false,
             "username": null,
             "banned": false,
-            "purchased": true,
-            "purchased_by": "1307608431888171058"
+            "purchased": false,
+            "purchased_by": false
         },
         {
             "key": "Potassium-WIYT-L1YS-7IFM",
@@ -54,6 +54,5 @@
         }
     ],
     "purchases": [
-        "1307608431888171058"
     ]
 }
