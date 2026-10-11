@@ -3,10 +3,6 @@
         {
             "username": "potassium",
             "password": "potassiumremakebyl8z4"
-        },
-        {
-            "username": "l8z4",
-            "password": "potassium"
         }
     ],
     "keys": [
@@ -15,7 +11,7 @@
             "used": true,
             "username": null,
             "banned": false,
-            "purchased": true,
+            "purchased": false,
             "purchased_by": false
         },
         {
@@ -23,16 +19,16 @@
             "used": true,
             "username": null,
             "banned": false,
-            "purchased": true,
+            "purchased": false,
             "purchased_by": false
         },
         {
             "key": "Potassium-VWSP-HQJF-GHH2",
             "used": true,
-            "username": "l8z4",
+            "username": null,
             "banned": false,
-            "purchased": true,
-            "purchased_by": "942224131527671858"
+            "purchased": false,
+            "purchased_by": false
         },
         {
             "key": "Potassium-6J44-YOKJ-GO1X",
@@ -57,6 +53,5 @@
         }
     ],
     "purchases": [
-        "942224131527671858"
     ]
 }
