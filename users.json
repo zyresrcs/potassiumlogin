@@ -3,7 +3,7 @@
         {
             "username": "potassium",
             "password": "potassiumremakebyl8z4"
-        },
+        }
     ],
     "keys": [
         {
@@ -49,6 +49,5 @@
             "purchased": false
         }
     ],
-    "purchases": [
-    ]
+    "purchases": []
 }
