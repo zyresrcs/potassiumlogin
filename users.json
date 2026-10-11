@@ -3,13 +3,17 @@
         {
             "username": "potassium",
             "password": "potassiumremakebyl8z4"
+        },
+        {
+            "username": "ZYRE",
+            "password": "zyrepassword"
         }
     ],
     "keys": [
         {
             "key": "Potassium-NYL0-0KNA-ALNI",
-            "used": false,
-            "username": null,
+            "used": true,
+            "username": "ZYRE",
             "banned": false,
             "purchased": true,
             "purchased_by": "1307608431888171058"
