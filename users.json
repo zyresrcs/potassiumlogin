@@ -39,7 +39,8 @@
             "used": false,
             "username": null,
             "banned": false,
-            "purchased": false
+            "purchased": true,
+            "purchased_by": "1531315294566486207"
         },
         {
             "key": "Potassium-WIYT-L1YS-7IFM",
@@ -59,6 +60,7 @@
     "purchases": [
         "1307608431888171058",
         "1487603138566291496",
-        "1199737568464482376"
+        "1199737568464482376",
+        "1531315294566486207"
     ]
 }
