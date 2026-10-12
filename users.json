@@ -23,7 +23,8 @@
             "used": false,
             "username": null,
             "banned": false,
-            "purchased": false
+            "purchased": true,
+            "purchased_by": "1487603138566291496"
         },
         {
             "key": "Potassium-VWSP-HQJF-GHH2",
@@ -55,6 +56,7 @@
         }
     ],
     "purchases": [
-        "1307608431888171058"
+        "1307608431888171058",
+        "1487603138566291496"
     ]
 }
