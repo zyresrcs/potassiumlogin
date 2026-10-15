@@ -7,6 +7,10 @@
         {
             "username": "ZYRE",
             "password": "zyrepassword"
+        },
+        {
+            "username": "test",
+            "password": "test"
         }
     ],
     "keys": [
@@ -44,8 +48,8 @@
         },
         {
             "key": "Potassium-WIYT-L1YS-7IFM",
-            "used": false,
-            "username": null,
+            "used": true,
+            "username": "test",
             "banned": false,
             "purchased": true,
             "purchased_by": "1560109460268126301"
