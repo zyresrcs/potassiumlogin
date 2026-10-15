@@ -50,7 +50,7 @@
             "key": "Potassium-WIYT-L1YS-7IFM",
             "used": true,
             "username": "test",
-            "banned": false,
+            "banned": true,
             "purchased": true,
             "purchased_by": "1560109460268126301"
         },
